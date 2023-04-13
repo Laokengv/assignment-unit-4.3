@@ -55,7 +55,7 @@ __Using functions in other functions!__
 3. Update the required `addItem` function to:
   - Use the `isFull` function to prevent more than `maxItems` from being added to the basket. 
   - If an item was added to the array, return `true`
-  - If there was no room and the item could not be added return `false`
+  - If there was no room and the item could not be added uretrn `false`
 
 __Using Array built-in functions!__
 

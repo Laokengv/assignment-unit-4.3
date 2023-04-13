@@ -28,7 +28,7 @@ function listItems() {
     console.log(item);
     } 
 }
-//listItems();
+listItems();
 
 
 function empty() {
@@ -38,7 +38,7 @@ function empty() {
     console.log(basket);
 }
 empty();
-//console.log(basket);
+console.log(basket);
 
 
 // ****STRETCH GOALS****
@@ -54,9 +54,9 @@ function isFull() {
         return false;
     }
 }
-// isFull();
-// console.log(basket);
-// console.log(isFull());
+isFull();
+console.log(basket);
+console.log(isFull());
 
 
 
